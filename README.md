@@ -1,6 +1,6 @@
 PROJECT: Show IP / UserName / DomeinName (in trei)
 ------------------------------------------------------------
-| Version: C# Framework 4 |
+| Version: Net. Framework 4.7.1 |
 
 
 
